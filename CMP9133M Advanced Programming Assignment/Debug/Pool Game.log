@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  simulation.cpp
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\simulation.cpp(443): warning C4018: '<': signed/unsigned mismatch
+  Pool Game.cpp
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\glut-3.7.6-bin\glut.h(314): warning C4005: 'GLUT_BITMAP_9_BY_15': macro redefinition
+  c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\glut-3.7.6-bin\glut.h(308): note: see previous definition of 'GLUT_BITMAP_9_BY_15'
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\pool game.cpp(461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\pool game.cpp(475): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\pool game.cpp(479): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\pool game.cpp(487): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\pool game.cpp(491): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  PocketTable.cpp
+  Player.cpp
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\player.cpp(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\player.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dean_2\desktop\submit advanced programming file\cmp9133m advanced programming assignment\player.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+Player.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Pool Game.vcxproj -> C:\Users\Dean_2\Desktop\Submit Advanced Programming File\CMP9133M Advanced Programming Assignment\Debug\Pool Game.exe
+  Pool Game.vcxproj -> C:\Users\Dean_2\Desktop\Submit Advanced Programming File\CMP9133M Advanced Programming Assignment\Debug\Pool Game.pdb (Full PDB)
